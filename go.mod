@@ -1,4 +1,4 @@
-module path-parser
+module github.com/psihachina/path-parser
 
 go 1.18
 
